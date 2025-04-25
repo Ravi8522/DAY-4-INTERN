@@ -60,15 +60,4 @@ The dashboard implements a consistent color palette that enhances readability wh
 3. Interact with the slicers and filters to explore different views of the data
 4. Hover over visualizations for detailed tooltips
 
-## Screenshots
-![Dashboard Overview](images/dashboard_overview.png)
-*Main dashboard view showing key sales metrics across NYC boroughs*
 
-![Building Category Analysis](images/building_category.png)
-*Detailed breakdown of sales by building classification*
-
-## Contact
-For questions or feedback about this dashboard, please contact [Your Name] at [your.email@example.com].
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
